@@ -1,0 +1,223 @@
+[
+  {
+    "id": "rb_relleno_pollo_wantan",
+    "plato": "RB RELLENO DE POLLO WANTAN",
+    "porciones": 1,
+    "ingredientes": [
+      { "id": "pechuga_pollo_kg", "nombre": "Pechuga pollo", "cantidad": 1000, "unidad": "gramos", "tipo": "simple" },
+      { "id": "cebollin_verde_rb_pollo", "nombre": "Cebollín verde", "cantidad": 15, "unidad": "gramos", "tipo": "simple" },
+      { "id": "aceite_sesamo_rb_pollo", "nombre": "Aceite de sésamo", "cantidad": 25, "unidad": "gramos", "tipo": "simple" },
+      { "id": "ajinomoto_rb_pollo", "nombre": "Ajino moto", "cantidad": 10, "unidad": "gramos", "tipo": "simple" },
+      { "id": "sal_rb_pollo", "nombre": "Sal", "cantidad": 15, "unidad": "gramos", "tipo": "simple" }
+    ]
+  },
+  {
+    "id": "rb_relleno_rollito_primavera",
+    "plato": "RB RELLENO DE ROLLITO PRIMAVERA",
+    "porciones": 1,
+    "ingredientes": [
+      { "id": "zapallo_italiano_rb_rollito", "nombre": "Zapallo italiano", "cantidad": 420, "unidad": "gramos", "tipo": "simple" },
+      { "id": "zanahoria_rb_rollito", "nombre": "Zanahoria", "cantidad": 215, "unidad": "gramos", "tipo": "simple" },
+      { "id": "repollo_rb_rollito", "nombre": "Repollo", "cantidad": 220, "unidad": "gramos", "tipo": "simple" },
+      { "id": "apio_rb_rollito", "nombre": "Apio", "cantidad": 200, "unidad": "gramos", "tipo": "simple" },
+      { "id": "ajo_entero_rb_rollito", "nombre": "Ajo entero", "cantidad": 15, "unidad": "gramos", "tipo": "simple" },
+      { "id": "ajinomoto_rb_rollito", "nombre": "Ajino moto", "cantidad": 10, "unidad": "gramos", "tipo": "simple" },
+      { "id": "sal_rb_rollito", "nombre": "Sal", "cantidad": 10, "unidad": "gramos", "tipo": "simple" },
+      { "id": "salsa_soya_rb_rollito", "nombre": "Salsa soya", "cantidad": 60, "unidad": "gramos", "tipo": "simple" },
+      { "id": "chuno_rb_rollito", "nombre": "Chuño", "cantidad": 10, "unidad": "gramos", "tipo": "simple" },
+      { "id": "aceite_sesamo_rb_rollito", "nombre": "Aceite sésamo", "cantidad": 30, "unidad": "gramos", "tipo": "simple" },
+      { "id": "aceite_vegetal_rb_rollito", "nombre": "Aceite vegetal", "cantidad": 50, "unidad": "gramos", "tipo": "simple" },
+      { "id": "fondo_verduras_rb_rollito", "nombre": "Fondo verduras", "cantidad": 120, "unidad": "gramos", "tipo": "simple" }
+    ]
+  },
+  {
+    "id": "rb_relleno_gyoza_zhu",
+    "plato": "RB RELLENO GYOZA ZHU",
+    "porciones": 1,
+    "ingredientes": [
+      { "id": "pulpa_cerdo_rb_gyoza", "nombre": "Pulpa cerdo", "cantidad": 600, "unidad": "gramos", "tipo": "simple" },
+      { "id": "repollo_rb_gyoza", "nombre": "Repollo", "cantidad": 50, "unidad": "gramos", "tipo": "simple" },
+      { "id": "cebollin_verde_rb_gyoza", "nombre": "Cebollín verde", "cantidad": 30, "unidad": "gramos", "tipo": "simple" },
+      { "id": "pasta_ajo_jengibre_rb_gyoza", "nombre": "Pasta ajo-jengibre", "cantidad": 10, "unidad": "gramos", "tipo": "simple" },
+      { "id": "sal_rb_gyoza", "nombre": "Sal", "cantidad": 15, "unidad": "gramos", "tipo": "simple" },
+      { "id": "ajinomoto_rb_gyoza", "nombre": "Ajino moto", "cantidad": 10, "unidad": "gramos", "tipo": "simple" },
+      { "id": "aceite_ajonjoli_rb_gyoza", "nombre": "Aceite ajonjolí", "cantidad": 30, "unidad": "gramos", "tipo": "simple" }
+    ]
+  },
+  {
+    "id": "relleno_gyoza_primavera",
+    "plato": "RELLENO GYOZA PRIMAVERA",
+    "porciones": 1,
+    "ingredientes": [
+      { "id": "proteina_soya_texturizada", "nombre": "Proteína soya (texturizada)", "cantidad": 300, "unidad": "gramos", "tipo": "simple" },
+      { "id": "berenjena_gyoza", "nombre": "Berenjena", "cantidad": 280, "unidad": "gramos", "tipo": "simple" },
+      { "id": "cebolla_morada_gyoza", "nombre": "Cebolla morada", "cantidad": 300, "unidad": "gramos", "tipo": "simple" },
+      { "id": "tomate_gyoza", "nombre": "Tomate", "cantidad": 400, "unidad": "gramos", "tipo": "simple" },
+      { "id": "zanahoria_gyoza", "nombre": "Zanahoria", "cantidad": 200, "unidad": "gramos", "tipo": "simple" },
+      { "id": "ajo_entero_gyoza", "nombre": "Ajo entero", "cantidad": 20, "unidad": "gramos", "tipo": "simple" },
+      { "id": "jengibre_gyoza", "nombre": "Jengibre", "cantidad": 10, "unidad": "gramos", "tipo": "simple" },
+      { "id": "salsa_soya_gyoza", "nombre": "Salsa soya", "cantidad": 100, "unidad": "gramos", "tipo": "simple" },
+      { "id": "aceite_vegetal_gyoza", "nombre": "Aceite vegetal", "cantidad": 100, "unidad": "mililitros", "tipo": "simple" },
+      { "id": "aceite_sesamo_gyoza", "nombre": "Aceite sésamo", "cantidad": 10, "unidad": "mililitros", "tipo": "simple" },
+      { "id": "sake_gyoza", "nombre": "Licor sake", "cantidad": 80, "unidad": "mililitros", "tipo": "simple" },
+      { "id": "sal_gyoza", "nombre": "Sal", "cantidad": 20, "unidad": "gramos", "tipo": "simple" },
+      { "id": "ajinomoto_gyoza", "nombre": "Ajino moto", "cantidad": 5, "unidad": "gramos", "tipo": "simple" }
+    ]
+  },
+  {
+    "id": "rb_relleno_gyoza_kama",
+    "plato": "RB RELLENO GYOZA KA MA",
+    "porciones": 1,
+    "ingredientes": [
+      { "id": "camaron_rb_relleno", "nombre": "Camarón", "cantidad": 1000, "unidad": "gramos", "tipo": "simple" },
+      { "id": "cebollin_blanco_rb_relleno", "nombre": "Cebollín blanco", "cantidad": 150, "unidad": "gramos", "tipo": "simple" },
+      { "id": "aceite_sesamo_rb_relleno", "nombre": "Aceite sésamo", "cantidad": 50, "unidad": "gramos", "tipo": "simple" },
+      { "id": "salsa_soya_rb_relleno", "nombre": "Salsa soya", "cantidad": 50, "unidad": "mililitros", "tipo": "simple" },
+      { "id": "pasta_ajo_jengibre_rb_relleno", "nombre": "Pasta ajo-jengibre", "cantidad": 40, "unidad": "gramos", "tipo": "simple" },
+      { "id": "chuno_rb_relleno", "nombre": "Chuño", "cantidad": 20, "unidad": "gramos", "tipo": "simple" },
+      { "id": "sal_rb_relleno", "nombre": "Sal", "cantidad": 10, "unidad": "gramos", "tipo": "simple" },
+      { "id": "ajinomoto_rb_relleno", "nombre": "Ajino moto", "cantidad": 5, "unidad": "gramos", "tipo": "simple" }
+    ]
+  },
+  {
+    "id": "wantan_take_a_wok",
+    "plato": "WANTAN TAKE A WOK",
+    "porciones": 1,
+    "ingredientes": [
+      { "id": "wantan_frito_unidades", "nombre": "Wantan frito", "cantidad": 4, "unidad": "unidades", "tipo": "simple" },
+      { "id": "rb_salsa_tamarindo_wantan", "nombre": "RB salsa tamarindo", "cantidad": 50, "unidad": "gramos", "tipo": "simple" },
+      {
+        "id": "wantan_frito_componente",
+        "nombre": "Wantan frito (componente)",
+        "tipo": "componente",
+        "ingredientes": [
+          { "id": "rb_relleno_pollo_wantan_60g", "nombre": "RB relleno pollo wantan", "cantidad": 60, "unidad": "gramos", "tipo": "simple" },
+          { "id": "masa_wantan", "nombre": "Masa wantan", "cantidad": 40, "unidad": "gramos", "tipo": "simple" },
+          { "id": "huevo_wantan", "nombre": "Huevo", "cantidad": 0.5, "unidad": "unidad", "tipo": "simple" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rollito_primavera",
+    "plato": "ROLLITO PRIMAVERA",
+    "porciones": 1,
+    "ingredientes": [
+      { "id": "masa_primavera_unidades", "nombre": "Masa primavera", "cantidad": 4, "unidad": "unidades", "tipo": "simple" },
+      { "id": "rb_relleno_rollito_120g", "nombre": "RB relleno de rollito", "cantidad": 120, "unidad": "gramos", "tipo": "simple" },
+      { "id": "harina_rollito", "nombre": "Harina sin preparar", "cantidad": 5, "unidad": "gramos", "tipo": "simple" },
+      { "id": "agua_rollito", "nombre": "Agua", "cantidad": "c/n", "unidad": "", "tipo": "simple" }
+    ]
+  },
+  {
+    "id": "sopa_ji",
+    "plato": "SOPA JI",
+    "porciones": 1,
+    "ingredientes": [
+      { "id": "rb_fondo_verduras_sopa_ji", "nombre": "RB fondo verduras", "cantidad": 250, "unidad": "gramos", "tipo": "simple" },
+      { "id": "gyoza_zhu_unidades", "nombre": "Gyoza zhu", "cantidad": 2, "unidad": "unidades", "tipo": "simple" },
+      { "id": "pasta_ramen_sopa_ji", "nombre": "Pasta ramen", "cantidad": 150, "unidad": "gramos", "tipo": "simple" },
+      { "id": "rb_huevo_encurtido_sopa_ji", "nombre": "RB huevo encurtido", "cantidad": 0.5, "unidad": "unidad", "tipo": "simple" },
+      { "id": "pechuga_pollo_sopa_ji", "nombre": "Pechuga pollo", "cantidad": 80, "unidad": "gramos", "tipo": "simple" },
+      { "id": "repollo_trozos_sopa_ji", "nombre": "Repollo trozos", "cantidad": 20, "unidad": "gramos", "tipo": "simple" },
+      { "id": "semilla_sesamo_mix_sopa_ji", "nombre": "Semilla sésamo mix", "cantidad": 2, "unidad": "gramos", "tipo": "simple" },
+      { "id": "cebollin_verde_sopa_ji", "nombre": "Cebollín verde", "cantidad": 5, "unidad": "gramos", "tipo": "simple" },
+      { "id": "sal_sopa_ji", "nombre": "Sal", "cantidad": "c/n", "unidad": "", "tipo": "simple" },
+      { "id": "ajinomoto_sopa_ji", "nombre": "Ajino moto", "cantidad": "c/n", "unidad": "", "tipo": "simple" }
+    ]
+  },
+  {
+    "id": "sopa_primavera",
+    "plato": "SOPA PRIMAVERA",
+    "porciones": 1,
+    "ingredientes": [
+      { "id": "rb_fondo_verduras_sopa_primavera", "nombre": "RB fondo verduras", "cantidad": 250, "unidad": "gramos", "tipo": "simple" },
+      { "id": "gyoza_primavera_unidades", "nombre": "Gyoza primavera", "cantidad": 2, "unidad": "unidades", "tipo": "simple" },
+      { "id": "pasta_ramen_sopa_primavera", "nombre": "Pasta ramen", "cantidad": 150, "unidad": "gramos", "tipo": "simple" },
+      { "id": "rb_hongo_shitaki", "nombre": "RB hongo shitaki", "cantidad": 1, "unidad": "unidad", "tipo": "simple" },
+      { "id": "tofu_frito_sopa_primavera", "nombre": "Tofu frito", "cantidad": 80, "unidad": "gramos", "tipo": "simple" },
+      { "id": "semilla_sesamo_mix_sopa_primavera", "nombre": "Semilla sésamo mix", "cantidad": 2, "unidad": "gramos", "tipo": "simple" },
+      { "id": "cebollin_verde_sopa_primavera", "nombre": "Cebollín verde", "cantidad": 5, "unidad": "gramos", "tipo": "simple" },
+      { "id": "repollo_trozos_sopa_primavera", "nombre": "Repollo trozos", "cantidad": 20, "unidad": "gramos", "tipo": "simple" }
+    ]
+  },
+  {
+    "id": "sopa_ka_ma",
+    "plato": "SOPA KA MA",
+    "porciones": 1,
+    "ingredientes": [
+      { "id": "rb_fondo_dashi", "nombre": "RB fondo dashi", "cantidad": 200, "unidad": "gramos", "tipo": "simple" },
+      { "id": "oden_unidades", "nombre": "Oden", "cantidad": 2, "unidad": "unidades", "tipo": "simple" },
+      { "id": "gyoza_camaron_unidades", "nombre": "Gyoza camarón", "cantidad": 2, "unidad": "unidades", "tipo": "simple" },
+      { "id": "rb_wakame_sopa_ka_ma", "nombre": "RB wakame", "cantidad": 50, "unidad": "gramos", "tipo": "simple" },
+      { "id": "repollo_trozos_sopa_ka_ma", "nombre": "Repollo trozos", "cantidad": 20, "unidad": "gramos", "tipo": "simple" },
+      { "id": "semilla_sesamo_mix_sopa_ka_ma", "nombre": "Semilla sésamo mix", "cantidad": 2, "unidad": "gramos", "tipo": "simple" },
+      { "id": "cebollin_verde_sopa_ka_ma", "nombre": "Cebollín verde", "cantidad": 10, "unidad": "gramos", "tipo": "simple" },
+      { "id": "rb_huevo_encurtido_sopa_ka_ma", "nombre": "RB huevo encurtido", "cantidad": 0.5, "unidad": "unidad", "tipo": "simple" },
+      { "id": "sal_sopa_ka_ma", "nombre": "Sal", "cantidad": "c/n", "unidad": "", "tipo": "simple" }
+    ]
+  },
+  {
+    "id": "gyozas_shu",
+    "plato": "GYOZAS SHU",
+    "porciones": 1,
+    "ingredientes": [
+      { "id": "gyoza_shu_unidades", "nombre": "Gyoza shu", "cantidad": 4, "unidad": "unidades", "tipo": "simple" },
+      { "id": "rb_canela_china_y_limon_shu", "nombre": "Rb canela china y limón", "cantidad": 40, "unidad": "gramos", "tipo": "simple" },
+      { "id": "cebollin_verde_shu", "nombre": "Cebollín verde", "cantidad": 10, "unidad": "gramos", "tipo": "simple" },
+      { "id": "hoja_platano_shu", "nombre": "Hoja de plátano", "cantidad": 20, "unidad": "gramos", "tipo": "simple" },
+      {
+        "id": "gyosa_shu_componente",
+        "nombre": "Gyosa shu (componente)",
+        "tipo": "componente",
+        "ingredientes": [
+          { "id": "masa_siumai_gyoza_shu", "nombre": "Masa siumai", "cantidad": 40, "unidad": "gramos", "tipo": "simple" },
+          { "id": "rb_relleno_gyoza_cerdo_100g", "nombre": "RB relleno gyoza cerdo", "cantidad": 100, "unidad": "gramos", "tipo": "simple" },
+          { "id": "agua_gyoza_shu", "nombre": "Agua", "cantidad": "c/n", "unidad": "", "tipo": "simple" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gyoza_ka_ma",
+    "plato": "GYOZA KA MA",
+    "porciones": 1,
+    "ingredientes": [
+      { "id": "gyoza_ka_ma_unidades", "nombre": "Gyoza ka ma", "cantidad": 4, "unidad": "unidades", "tipo": "simple" },
+      { "id": "rb_canela_china_y_limon_kama", "nombre": "Rb canela china y limón", "cantidad": 40, "unidad": "gramos", "tipo": "simple" },
+      { "id": "cebollin_verde_kama", "nombre": "Cebollín verde", "cantidad": 10, "unidad": "gramos", "tipo": "simple" },
+      { "id": "hoja_platano_kama", "nombre": "Hoja de plátano", "cantidad": 20, "unidad": "gramos", "tipo": "simple" },
+      {
+        "id": "gyoza_ka_ma_componente",
+        "nombre": "Gyoza ka ma (componente)",
+        "tipo": "componente",
+        "ingredientes": [
+          { "id": "masa_siumai_gyoza_kama", "nombre": "Masa siumai", "cantidad": 40, "unidad": "gramos", "tipo": "simple" },
+          { "id": "rb_relleno_camarón_100g", "nombre": "RB relleno camarón", "cantidad": 100, "unidad": "gramos", "tipo": "simple" },
+          { "id": "agua_gyoza_kama", "nombre": "Agua", "cantidad": "c/n", "unidad": "", "tipo": "simple" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gyoza_primavera",
+    "plato": "GYOZA PRIMAVERA",
+    "porciones": 1,
+    "ingredientes": [
+      { "id": "gyoza_primavera_unidades", "nombre": "Gyoza primavera", "cantidad": 4, "unidad": "unidades", "tipo": "simple" },
+      { "id": "rb_canela_china_y_limon_primavera", "nombre": "Rb canela china y limón", "cantidad": 40, "unidad": "gramos", "tipo": "simple" },
+      { "id": "cebollin_verde_primavera", "nombre": "Cebollín verde", "cantidad": 10, "unidad": "gramos", "tipo": "simple" },
+      { "id": "hoja_platano_primavera", "nombre": "Hoja de plátano", "cantidad": 20, "unidad": "gramos", "tipo": "simple" },
+      {
+        "id": "gyoza_primavera_componente",
+        "nombre": "Gyoza primavera (componente)",
+        "tipo": "componente",
+        "ingredientes": [
+          { "id": "masa_siumai_gyoza_primavera", "nombre": "Masa siumai", "cantidad": 40, "unidad": "gramos", "tipo": "simple" },
+          { "id": "rb_relleno_gyoza_primavera_100g", "nombre": "RB relleno gyoza primavera", "cantidad": 100, "unidad": "gramos", "tipo": "simple" },
+          { "id": "agua_gyoza_primavera", "nombre": "Agua", "cantidad": "c/n", "unidad": "", "tipo": "simple" }
+        ]
+      }
+    ]
+  }
+]

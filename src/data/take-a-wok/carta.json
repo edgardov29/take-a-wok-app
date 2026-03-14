@@ -1,0 +1,557 @@
+[
+  {
+    "id": "kama_wok",
+    "plato": "KAMA WOK",
+    "porciones": 1,
+    "ingredientes": [
+      {
+        "id": "arroz_frito_kama",
+        "nombre": "Arroz frito",
+        "tipo": "componente",
+        "ingredientes": [
+          { "id": "arroz_blanco", "nombre": "Arroz blanco", "cantidad": 250, "unidad": "gramos", "tipo": "simple" },
+          { "id": "aceite_sesamo_arroz", "nombre": "Aceite sésamo", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+          { "id": "sal_arroz", "nombre": "Sal", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+          { "id": "ajinomoto_arroz", "nombre": "Ajino moto", "cantidad": "al gusto", "unidad": "", "tipo": "simple" }
+        ]
+      },
+      {
+        "id": "saltado_verduras_camaron_kama",
+        "nombre": "Verduras y camarón salteados",
+        "tipo": "componente",
+        "ingredientes": [
+          { "id": "pimiento_colores_kama", "nombre": "Pimiento colores", "cantidad": 25, "unidad": "gramos", "tipo": "simple" },
+          { "id": "champinon_kama", "nombre": "Champiñón", "cantidad": 40, "unidad": "gramos", "tipo": "simple" },
+          { "id": "brocoli_kama", "nombre": "Brócoli", "cantidad": 40, "unidad": "gramos", "tipo": "simple" },
+          { "id": "cebolla_morada_kama", "nombre": "Cebolla morada", "cantidad": 50, "unidad": "gramos", "tipo": "simple" },
+          { "id": "aderezo_take_kama", "nombre": "Aderezo TAKE wok (RB)", "cantidad": 20, "unidad": "gramos", "tipo": "simple" },
+          { "id": "salsa_coco_curry_kama", "nombre": "Salsa coco curry (RB)", "cantidad": 100, "unidad": "gramos", "tipo": "simple" },
+          { "id": "camaron_36_40_kama", "nombre": "Camarón 36/40", "cantidad": 6, "unidad": "unidades", "tipo": "simple" },
+          { "id": "salsa_soya_kama", "nombre": "Salsa soya", "cantidad": 20, "unidad": "gramos", "tipo": "simple" }
+        ]
+      },
+      { "id": "camote_hilo_kama", "nombre": "Camote hilo frito (RB)", "cantidad": 15, "unidad": "gramos", "tipo": "simple" }
+    ]
+  },
+  {
+    "id": "ji_wok",
+    "plato": "JI WOK",
+    "porciones": 1,
+    "ingredientes": [
+      {
+        "id": "arroz_frito_ji",
+        "nombre": "Arroz frito",
+        "tipo": "componente",
+        "ingredientes": [
+          { "id": "arroz_blanco_ji", "nombre": "Arroz blanco", "cantidad": 250, "unidad": "gramos", "tipo": "simple" },
+          { "id": "aceite_sesamo_ji", "nombre": "Aceite sésamo", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+          { "id": "sal_ji", "nombre": "Sal", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+          { "id": "ajinomoto_ji", "nombre": "Ajino moto", "cantidad": "al gusto", "unidad": "", "tipo": "simple" }
+        ]
+      },
+      {
+        "id": "saltado_verduras_pollo_ji",
+        "nombre": "Verduras y pollo salteados",
+        "tipo": "componente",
+        "ingredientes": [
+          { "id": "pimiento_colores_ji", "nombre": "Pimiento colores", "cantidad": 25, "unidad": "gramos", "tipo": "simple" },
+          { "id": "pina_ji", "nombre": "Piña", "cantidad": 40, "unidad": "gramos", "tipo": "simple" },
+          { "id": "brocoli_ji", "nombre": "Brócoli", "cantidad": 40, "unidad": "gramos", "tipo": "simple" },
+          { "id": "cebolla_morada_ji", "nombre": "Cebolla morada", "cantidad": 50, "unidad": "gramos", "tipo": "simple" },
+          { "id": "aderezo_take_ji", "nombre": "Aderezo TAKE wok (RB)", "cantidad": 20, "unidad": "gramos", "tipo": "simple" },
+          { "id": "salsa_tamarindo_ji", "nombre": "Salsa tamarindo (RB)", "cantidad": 100, "unidad": "gramos", "tipo": "simple" },
+          { "id": "pechuga_pollo_ji", "nombre": "Pechuga pollo", "cantidad": 120, "unidad": "gramos", "tipo": "simple" },
+          { "id": "salsa_soya_ji", "nombre": "Salsa soya", "cantidad": 20, "unidad": "gramos", "tipo": "simple" }
+        ]
+      },
+      { "id": "semilla_sesamo_ji", "nombre": "Semilla sésamo mix (RB)", "cantidad": 15, "unidad": "gramos", "tipo": "simple" }
+    ]
+  },
+  {
+    "id": "fan_wok",
+    "plato": "FAN WOK",
+    "porciones": 1,
+    "ingredientes": [
+      { "id": "pollo_cocido_fan", "nombre": "Pollo cocido", "cantidad": 80, "unidad": "gramos", "tipo": "simple" },
+      { "id": "arroz_cocido_fan", "nombre": "Arroz cocido", "cantidad": 250, "unidad": "gramos", "tipo": "simple" },
+      { "id": "huevo_fan", "nombre": "Huevo", "cantidad": 1, "unidad": "unidad", "tipo": "simple" },
+      { "id": "diente_dragon_fan", "nombre": "Diente dragón", "cantidad": 60, "unidad": "gramos", "tipo": "simple" },
+      { "id": "pimiento_rojo_fan", "nombre": "Pimiento rojo", "cantidad": 30, "unidad": "gramos", "tipo": "simple" },
+      { "id": "cebollin_verde_fan", "nombre": "Cebollín verde", "cantidad": 20, "unidad": "gramos", "tipo": "simple" },
+      { "id": "salsa_soya_fan", "nombre": "Salsa soya", "cantidad": 10, "unidad": "gramos", "tipo": "simple" },
+      { "id": "salsa_ostion_fan", "nombre": "Salsa ostión", "cantidad": 20, "unidad": "gramos", "tipo": "simple" },
+      { "id": "aceite_sesamo_fan", "nombre": "Aceite sésamo", "cantidad": 10, "unidad": "gramos", "tipo": "simple" },
+      { "id": "sal_fan", "nombre": "Sal", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+      { "id": "ajinomoto_fan", "nombre": "Ajino moto", "cantidad": "al gusto", "unidad": "", "tipo": "simple" }
+    ]
+  },
+  {
+    "id": "yao_wok",
+    "plato": "YAO WOK",
+    "porciones": 1,
+    "ingredientes": [
+      { "id": "filete_vacuno_yao", "nombre": "Filete vacuno", "cantidad": 120, "unidad": "gramos", "tipo": "simple" },
+      { "id": "fideos_huevo_yao", "nombre": "Fideos huevo", "cantidad": 250, "unidad": "gramos", "tipo": "simple" },
+      { "id": "cebolla_morada_yao", "nombre": "Cebolla morada", "cantidad": 50, "unidad": "gramos", "tipo": "simple" },
+      { "id": "tomate_yao", "nombre": "Tomate", "cantidad": 50, "unidad": "gramos", "tipo": "simple" },
+      { "id": "cebollin_verde_yao", "nombre": "Cebollín verde", "cantidad": 20, "unidad": "gramos", "tipo": "simple" },
+      { "id": "cilantro_yao", "nombre": "Cilantro", "cantidad": 5, "unidad": "gramos", "tipo": "simple" },
+      { "id": "comino_yao", "nombre": "Comino", "cantidad": 2, "unidad": "gramos", "tipo": "simple" },
+      { "id": "base_lomo_yao", "nombre": "Base lomo (RB)", "cantidad": 100, "unidad": "gramos", "tipo": "simple" },
+      { "id": "aderezo_take_yao", "nombre": "Aderezo TAKE wok (RB)", "cantidad": 5, "unidad": "gramos", "tipo": "simple" },
+      { "id": "aceite_vegetal_yao", "nombre": "Aceite vegetal", "cantidad": "c/n", "unidad": "", "tipo": "simple" },
+      { "id": "aceite_sesamo_yao", "nombre": "Aceite sésamo", "cantidad": 5, "unidad": "gramos", "tipo": "simple" },
+      { "id": "sal_yao", "nombre": "Sal", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+      { "id": "ajinomoto_yao", "nombre": "Ajino moto", "cantidad": "al gusto", "unidad": "", "tipo": "simple" }
+    ]
+  },
+  {
+    "id": "primavera_wok",
+    "plato": "PRIMAVERA WOK",
+    "porciones": 1,
+    "ingredientes": [
+      { "id": "coliflor_primavera", "nombre": "Coliflor", "cantidad": 300, "unidad": "gramos", "tipo": "simple" },
+      { "id": "choclo_primavera", "nombre": "Choclo amarillo", "cantidad": 120, "unidad": "gramos", "tipo": "simple" },
+      { "id": "aderezo_criollo_primavera", "nombre": "Aderezo criollo (RB)", "cantidad": 30, "unidad": "gramos", "tipo": "simple" },
+      { "id": "ensaladilla_fresca_primavera", "nombre": "Ensaladilla fresca", "cantidad": 1, "unidad": "porción", "tipo": "simple" },
+      { "id": "aceite_oliva_primavera", "nombre": "Aceite oliva", "cantidad": 10, "unidad": "gramos", "tipo": "simple" },
+      { "id": "aceite_vegetal_primavera", "nombre": "Aceite vegetal", "cantidad": 10, "unidad": "gramos", "tipo": "simple" },
+      { "id": "palta_primavera", "nombre": "Palta", "cantidad": 50, "unidad": "gramos", "tipo": "simple" },
+      { "id": "sal_primavera", "nombre": "Sal", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+      { "id": "hojas_cilantro_primavera", "nombre": "Hojas cilantro", "cantidad": "para decorar", "unidad": "", "tipo": "simple" },
+      { "id": "flor_decoracion_primavera", "nombre": "Flor decoración comestible", "cantidad": "para decorar", "unidad": "", "tipo": "simple" }
+    ]
+  },
+  {
+    "id": "ensaladilla_fresca",
+    "plato": "ENSALADILLA FRESCA (PRIMAVERA WOK)",
+    "porciones": 1,
+    "ingredientes": [
+      { "id": "cebolla_morada_ensaladilla", "nombre": "Cebolla morada", "cantidad": 50, "unidad": "gramos", "tipo": "simple" },
+      { "id": "tomate_cherry_ensaladilla", "nombre": "Tomate cherry", "cantidad": 30, "unidad": "gramos", "tipo": "simple" },
+      { "id": "cilantro_ensaladilla", "nombre": "Cilantro", "cantidad": 5, "unidad": "gramos", "tipo": "simple" },
+      { "id": "zumo_limon_ensaladilla", "nombre": "Zumo limón", "cantidad": 5, "unidad": "gramos", "tipo": "simple" },
+      { "id": "sal_ensaladilla", "nombre": "Sal", "cantidad": "al gusto", "unidad": "", "tipo": "simple" }
+    ]
+  },
+  {
+    "id": "pad_thai_wok",
+    "plato": "PAD THAI WOK",
+    "porciones": 1,
+    "ingredientes": [
+      { "id": "fideos_arroz_padthai", "nombre": "Fideos arroz", "cantidad": 250, "unidad": "gramos", "tipo": "simple" },
+      { "id": "pechuga_pollo_padthai", "nombre": "Pechuga pollo", "cantidad": 60, "unidad": "gramos", "tipo": "simple" },
+      { "id": "camaron_36_40_padthai", "nombre": "Camarón 36/40", "cantidad": 6, "unidad": "unidades", "tipo": "simple" },
+      { "id": "huevo_padthai", "nombre": "Huevo", "cantidad": 1, "unidad": "unidad", "tipo": "simple" },
+      { "id": "brocoli_padthai", "nombre": "Brócoli", "cantidad": 50, "unidad": "gramos", "tipo": "simple" },
+      { "id": "mini_choclo_padthai", "nombre": "Mini choclo", "cantidad": 50, "unidad": "gramos", "tipo": "simple" },
+      { "id": "zapallo_italiano_padthai", "nombre": "Zapallo italiano", "cantidad": 50, "unidad": "gramos", "tipo": "simple" },
+      { "id": "zanahoria_padthai", "nombre": "Zanahoria", "cantidad": 40, "unidad": "gramos", "tipo": "simple" },
+      { "id": "salsa_curry_rojo_padthai", "nombre": "RB salsa curry rojo", "cantidad": 100, "unidad": "gramos", "tipo": "simple" },
+      { "id": "mani_tostado_padthai", "nombre": "Maní tostado picado", "cantidad": 20, "unidad": "gramos", "tipo": "simple" },
+      { "id": "limon_pica_padthai", "nombre": "Limón pica", "cantidad": 1, "unidad": "unidad", "tipo": "simple" },
+      { "id": "brote_alfalfa_padthai", "nombre": "Brote alfalfa", "cantidad": 5, "unidad": "gramos", "tipo": "simple" },
+      { "id": "aceite_vegetal_padthai", "nombre": "Aceite vegetal", "cantidad": "c/n", "unidad": "", "tipo": "simple" }
+    ]
+  },
+  {
+    "id": "chasiu_wok",
+    "plato": "CHASIU WOK",
+    "porciones": 1,
+    "ingredientes": [
+      { "id": "pasta_ramen_chasiu", "nombre": "Pasta ramen", "cantidad": 250, "unidad": "gramos", "tipo": "simple" },
+      { "id": "repollo_morado_chasiu", "nombre": "Repollo morado", "cantidad": 30, "unidad": "gramos", "tipo": "simple" },
+      { "id": "repollo_blanco_chasiu", "nombre": "Repollo blanco", "cantidad": 30, "unidad": "gramos", "tipo": "simple" },
+      { "id": "pimenton_rojo_chasiu", "nombre": "Pimentón rojo", "cantidad": 30, "unidad": "gramos", "tipo": "simple" },
+      { "id": "pimenton_verde_chasiu", "nombre": "Pimentón verde", "cantidad": 30, "unidad": "gramos", "tipo": "simple" },
+      { "id": "zanahoria_chasiu", "nombre": "Zanahoria", "cantidad": 30, "unidad": "gramos", "tipo": "simple" },
+      { "id": "diente_dragon_chasiu", "nombre": "Diente dragón", "cantidad": 30, "unidad": "gramos", "tipo": "simple" },
+      { "id": "brocoli_chasiu", "nombre": "Brócoli", "cantidad": 30, "unidad": "gramos", "tipo": "simple" },
+      { "id": "macerada_chasiu", "nombre": "Macerada chasiu", "cantidad": 100, "unidad": "gramos", "tipo": "simple" },
+      { "id": "salsa_tonkatsu_chasiu", "nombre": "Salsa tonkatsu", "cantidad": 100, "unidad": "gramos", "tipo": "simple" },
+      { "id": "salsa_soya_chasiu", "nombre": "Salsa soya", "cantidad": 40, "unidad": "gramos", "tipo": "simple" },
+      { "id": "semilla_sesamo_chasiu", "nombre": "Semilla sésamo mix", "cantidad": 2, "unidad": "gramos", "tipo": "simple" },
+      { "id": "aderezo_take_chasiu", "nombre": "Aderezo TAKE wok (RB)", "cantidad": 5, "unidad": "gramos", "tipo": "simple" },
+      { "id": "salsa_miel_chasiu", "nombre": "Salsa miel chasiu (RB)", "cantidad": 50, "unidad": "gramos", "tipo": "simple" },
+      { "id": "aceite_vegetal_chasiu", "nombre": "Aceite vegetal", "cantidad": "c/n", "unidad": "", "tipo": "simple" }
+    ]
+  },
+  {
+    "id": "alitas_take",
+    "plato": "ALITAS TAKE",
+    "porciones": 1,
+    "ingredientes": [
+      { "id": "trutro_ala_alitas", "nombre": "Trutro ala pollo", "cantidad": "5-6", "unidad": "unidades", "tipo": "simple" },
+      { "id": "sal_alitas", "nombre": "Sal", "cantidad": 3, "unidad": "gramos", "tipo": "simple" },
+      { "id": "pimienta_alitas", "nombre": "Pimienta negra", "cantidad": 1, "unidad": "grama", "tipo": "simple" },
+      { "id": "pasta_ajo_jengibre_alitas", "nombre": "RB pasta ajo-jengibre", "cantidad": 5, "unidad": "gramos", "tipo": "simple" },
+      { "id": "chuno_alitas", "nombre": "Chuño", "cantidad": 100, "unidad": "gramos", "tipo": "simple" },
+      { "id": "salsa_chili_hot_alitas", "nombre": "RB salsa chili hot", "cantidad": 100, "unidad": "gramos", "tipo": "simple" },
+      { "id": "cebollin_verde_alitas", "nombre": "Cebollín verde picado", "cantidad": 5, "unidad": "gramos", "tipo": "simple" },
+      { "id": "semilla_sesamo_alitas", "nombre": "Semilla sésamo mix", "cantidad": 3, "unidad": "gramas", "tipo": "simple" },
+      { "id": "aceite_vegetal_alitas", "nombre": "Aceite vegetal", "cantidad": "c/n", "unidad": "", "tipo": "simple" }
+    ]
+  },
+  {
+    "id": "shucai_wok",
+    "plato": "SHUCAI WOK",
+    "porciones": 1,
+    "ingredientes": [
+      { "id": "cebolla_morada_shucai", "nombre": "Cebolla morada", "cantidad": 50, "unidad": "gramos", "tipo": "simple" },
+      { "id": "pimenton_colores_shucai", "nombre": "Pimentón colores", "cantidad": 100, "unidad": "gramos", "tipo": "simple" },
+      { "id": "brocoli_shucai", "nombre": "Brócoli", "cantidad": 30, "unidad": "gramos", "tipo": "simple" },
+      { "id": "repollo_blanco_shucai", "nombre": "Repollo blanco", "cantidad": 50, "unidad": "gramos", "tipo": "simple" },
+      { "id": "repollo_morado_shucai", "nombre": "Repollo morado", "cantidad": 50, "unidad": "gramos", "tipo": "simple" },
+      { "id": "tomate_cherry_shucai", "nombre": "Tomate cherry", "cantidad": 20, "unidad": "gramos", "tipo": "simple" },
+      { "id": "tofu_shucai", "nombre": "Tofu", "cantidad": 100, "unidad": "gramos", "tipo": "simple" },
+      { "id": "wanyi_shucai", "nombre": "Wanyi", "cantidad": 50, "unidad": "gramos", "tipo": "simple" },
+      { "id": "salsa_soya_shucai", "nombre": "Salsa soya", "cantidad": "c/n", "unidad": "", "tipo": "simple" },
+      { "id": "sal_shucai", "nombre": "Sal", "cantidad": "c/n", "unidad": "", "tipo": "simple" },
+      { "id": "ajinomoto_shucai", "nombre": "Ajino moto", "cantidad": "c/n", "unidad": "", "tipo": "simple" },
+      { "id": "azucar_blanca_shucai", "nombre": "Azúcar blanca", "cantidad": 5, "unidad": "gramos", "tipo": "simple" },
+      { "id": "aderezo_take_shucai", "nombre": "RB aderezo TAKE wok", "cantidad": 40, "unidad": "gramos", "tipo": "simple" },
+      { "id": "aceite_vegetal_shucai", "nombre": "Aceite vegetal", "cantidad": 60, "unidad": "gramos", "tipo": "simple" },
+      { "id": "brote_alfalfa_shucai", "nombre": "Brote alfalfa", "cantidad": 10, "unidad": "gramos", "tipo": "simple" },
+      { "id": "semilla_sesamo_shucai", "nombre": "Semilla sésamo mix", "cantidad": 2, "unidad": "gramas", "tipo": "simple" }
+    ]
+  },
+  {
+    "id": "pasta_wok",
+    "plato": "PASTA WOK",
+    "porciones": 1,
+    "ingredientes": [
+      { "id": "fideos_huevo_pasta", "nombre": "Fideos huevo", "cantidad": 250, "unidad": "gramos", "tipo": "simple" },
+      { "id": "pimiento_verde_pasta", "nombre": "Pimiento verde", "cantidad": 20, "unidad": "gramos", "tipo": "simple" },
+      { "id": "pimiento_rojo_pasta", "nombre": "Pimiento rojo", "cantidad": 20, "unidad": "gramos", "tipo": "simple" },
+      { "id": "diente_dragon_pasta", "nombre": "Diente dragón", "cantidad": 20, "unidad": "gramos", "tipo": "simple" },
+      { "id": "salsa_soya_pasta", "nombre": "Salsa soya", "cantidad": 20, "unidad": "gramos", "tipo": "simple" },
+      { "id": "salsa_teriyaki_pasta", "nombre": "RB salsa teriyaki", "cantidad": 50, "unidad": "gramos", "tipo": "simple" },
+      {
+        "id": "trutro_ala_panko_pasta",
+        "nombre": "Trutro ala al panko",
+        "tipo": "componente",
+        "ingredientes": [
+          { "id": "trutro_ala_pasta", "nombre": "Trutro ala", "cantidad": "2-3", "unidad": "unidades", "tipo": "simple" },
+          { "id": "harina_trutro_pasta", "nombre": "Harina sin preparar", "cantidad": 50, "unidad": "gramos", "tipo": "simple" },
+          { "id": "huevo_trutro_pasta", "nombre": "Huevo", "cantidad": 1, "unidad": "unidad", "tipo": "simple" },
+          { "id": "panko_trutro_pasta", "nombre": "Panko", "cantidad": 50, "unidad": "gramos", "tipo": "simple" },
+          { "id": "sal_trutro_pasta", "nombre": "Sal", "cantidad": "c/n", "unidad": "", "tipo": "simple" },
+          { "id": "pimienta_trutro_pasta", "nombre": "Pimienta negra", "cantidad": 1, "unidad": "grama", "tipo": "simple" },
+          { "id": "aceite_trutro_pasta", "nombre": "Aceite vegetal", "cantidad": 500, "unidad": "mililitros", "tipo": "simple" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "wok_tender",
+    "plato": "WOK TENDER",
+    "porciones": 1,
+    "ingredientes": [
+      { "id": "arroz_blanco_woktender", "nombre": "Arroz blanco", "cantidad": 250, "unidad": "gramos", "tipo": "simple" },
+      { "id": "huevo_woktender", "nombre": "Huevo", "cantidad": 1, "unidad": "unidad", "tipo": "simple" },
+      { "id": "cebollin_verde_woktender", "nombre": "Cebollín verde", "cantidad": 15, "unidad": "gramos", "tipo": "simple" },
+      { "id": "pimiento_rojo_woktender", "nombre": "Pimiento rojo", "cantidad": 20, "unidad": "gramos", "tipo": "simple" },
+      { "id": "salsa_soya_woktender", "nombre": "Salsa soya", "cantidad": 20, "unidad": "gramos", "tipo": "simple" },
+      { "id": "aceite_sesamo_woktender", "nombre": "Aceite sésamo", "cantidad": 10, "unidad": "gramos", "tipo": "simple" },
+      { "id": "pechuga_pollo_frito_woktender", "nombre": "Pechuga pollo frito", "cantidad": 120, "unidad": "gramos", "tipo": "simple" },
+      { "id": "salsa_teriyaki_woktender", "nombre": "RB salsa teriyaki", "cantidad": 50, "unidad": "gramos", "tipo": "simple" },
+      { "id": "sal_woktender", "nombre": "Sal", "cantidad": "c/n", "unidad": "", "tipo": "simple" },
+      { "id": "ajinomoto_woktender", "nombre": "Ajino moto", "cantidad": "c/n", "unidad": "", "tipo": "simple" },
+      {
+        "id": "pechuga_frita_componente_woktender",
+        "nombre": "Pechuga de pollo frita (preparación)",
+        "tipo": "componente",
+        "ingredientes": [
+          { "id": "pechuga_cruda_woktender", "nombre": "Pechuga pollo", "cantidad": 120, "unidad": "gramos", "tipo": "simple" },
+          { "id": "harina_pechuga_woktender", "nombre": "Harina sin preparar", "cantidad": 50, "unidad": "gramos", "tipo": "simple" },
+          { "id": "huevo_pechuga_woktender", "nombre": "Huevo", "cantidad": 1, "unidad": "unidad", "tipo": "simple" },
+          { "id": "panko_pechuga_woktender", "nombre": "Panko", "cantidad": 50, "unidad": "gramos", "tipo": "simple" },
+          { "id": "sal_pechuga_woktender", "nombre": "Sal", "cantidad": "c/n", "unidad": "", "tipo": "simple" },
+          { "id": "aceite_pechuga_woktender", "nombre": "Aceite vegetal", "cantidad": 200, "unidad": "mililitros", "tipo": "simple" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "amai_wok",
+    "plato": "AMAI WOK",
+    "porciones": 1,
+    "ingredientes": [
+      { "id": "pasta_ramen_amai", "nombre": "Pasta ramen", "cantidad": 250, "unidad": "gramos", "tipo": "simple" },
+      { "id": "camaron_amai", "nombre": "Camarón 36/40", "cantidad": 6, "unidad": "unidades", "tipo": "simple" },
+      { "id": "repollo_morado_amai", "nombre": "Repollo morado", "cantidad": 30, "unidad": "gramos", "tipo": "simple" },
+      { "id": "repollo_blanco_amai", "nombre": "Repollo blanco", "cantidad": 30, "unidad": "gramos", "tipo": "simple" },
+      { "id": "pimenton_rojo_amai", "nombre": "Pimentón rojo", "cantidad": 30, "unidad": "gramos", "tipo": "simple" },
+      { "id": "pimenton_verde_amai", "nombre": "Pimentón verde", "cantidad": 30, "unidad": "gramos", "tipo": "simple" },
+      { "id": "zanahoria_amai", "nombre": "Zanahoria", "cantidad": 30, "unidad": "gramos", "tipo": "simple" },
+      { "id": "diente_dragon_amai", "nombre": "Diente dragón", "cantidad": 30, "unidad": "gramos", "tipo": "simple" },
+      { "id": "brocoli_amai", "nombre": "Brócoli", "cantidad": 100, "unidad": "gramos", "tipo": "simple" },
+      { "id": "salsa_tonkatsu_amai", "nombre": "Salsa tonkatsu", "cantidad": 40, "unidad": "gramos", "tipo": "simple" },
+      { "id": "salsa_soya_amai", "nombre": "Salsa soya", "cantidad": 2, "unidad": "gramas", "tipo": "simple" },
+      { "id": "aderezo_take_amai", "nombre": "RB aderezo TAKE wok", "cantidad": 3, "unidad": "gramos", "tipo": "simple" },
+      { "id": "katsuobushi_amai", "nombre": "Katsuobushi", "cantidad": "c/n", "unidad": "", "tipo": "simple" },
+      { "id": "semilla_sesamo_amai", "nombre": "Semilla sésamo mix", "cantidad": "c/n", "unidad": "", "tipo": "simple" },
+      { "id": "aceite_vegetal_amai", "nombre": "Aceite vegetal", "cantidad": "c/n", "unidad": "", "tipo": "simple" }
+    ]
+  },
+  {
+    "id": "fresh_salad",
+    "plato": "FRESH SALAD",
+    "porciones": 1,
+    "ingredientes": [
+      { "id": "lechuga_fresh", "nombre": "Lechuga verde", "cantidad": 60, "unidad": "gramos", "tipo": "simple" },
+      { "id": "tomate_cherry_fresh", "nombre": "Tomate cherry", "cantidad": 30, "unidad": "gramos", "tipo": "simple" },
+      { "id": "palta_fresh", "nombre": "Palta", "cantidad": 50, "unidad": "gramos", "tipo": "simple" },
+      { "id": "tofu_frito_fresh", "nombre": "Tofu frito", "cantidad": 30, "unidad": "gramos", "tipo": "simple" },
+      { "id": "mini_choclo_fresh", "nombre": "Mini choclo", "cantidad": 30, "unidad": "gramos", "tipo": "simple" },
+      { "id": "champinones_fresh", "nombre": "Champiñones París", "cantidad": 40, "unidad": "gramos", "tipo": "simple" },
+      { "id": "brocoli_fresh", "nombre": "Brócoli", "cantidad": 20, "unidad": "gramos", "tipo": "simple" },
+      { "id": "almendra_tostada_fresh", "nombre": "Almendra tostada", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+      { "id": "vinagreta_fresh", "nombre": "Vinagreta take a wok (en pocillo)", "cantidad": 50, "unidad": "gramos", "tipo": "simple" }
+    ]
+  },
+  {
+    "id": "oriental_salad",
+    "plato": "ORIENTAL SALAD",
+    "porciones": 1,
+    "ingredientes": [
+      { "id": "lechuga_oriental", "nombre": "Lechuga verde", "cantidad": 60, "unidad": "gramos", "tipo": "simple" },
+      { "id": "camaron_panko_oriental", "nombre": "Camarón 36/40 al panko", "cantidad": 6, "unidad": "unidades", "tipo": "simple" },
+      { "id": "pimiento_rojo_oriental", "nombre": "Pimiento rojo", "cantidad": 20, "unidad": "gramos", "tipo": "simple" },
+      { "id": "pimiento_verde_oriental", "nombre": "Pimiento verde", "cantidad": 20, "unidad": "gramos", "tipo": "simple" },
+      { "id": "zanahoria_oriental", "nombre": "Zanahoria juliana", "cantidad": 20, "unidad": "gramos", "tipo": "simple" },
+      { "id": "diente_dragon_oriental", "nombre": "Diente dragón", "cantidad": 20, "unidad": "gramos", "tipo": "simple" },
+      { "id": "repollo_morado_oriental", "nombre": "Repollo morado", "cantidad": 40, "unidad": "gramos", "tipo": "simple" },
+      { "id": "pina_oriental", "nombre": "Piña", "cantidad": "al gusto", "unidad": "", "tipo": "simple" },
+      { "id": "semilla_sesamo_oriental", "nombre": "Semilla sésamo mix", "cantidad": "c/n", "unidad": "", "tipo": "simple" },
+      { "id": "vinagreta_oriental", "nombre": "Vinagreta (en pocillo)", "cantidad": 50, "unidad": "gramos", "tipo": "simple" }
+    ]
+  },
+  {
+    "id": "poke_cerdo_cruyoc",
+    "plato": "POKE DE CERDO CRUYOC",
+    "porciones": 1,
+    "ingredientes": [
+      { "id": "arroz_shari_poke_cerdo", "nombre": "Arroz shari", "cantidad": 150, "unidad": "gramos", "tipo": "simple" },
+      { "id": "zanahoria_poke_cerdo", "nombre": "Zanahoria", "cantidad": 20, "unidad": "gramos", "tipo": "simple" },
+      { "id": "durazno_poke_cerdo", "nombre": "Durazno", "cantidad": 40, "unidad": "gramos", "tipo": "simple" },
+      { "id": "repollo_morado_poke_cerdo", "nombre": "Repollo morado", "cantidad": 20, "unidad": "gramos", "tipo": "simple" },
+      { "id": "palta_poke_cerdo", "nombre": "Palta", "cantidad": 40, "unidad": "gramos", "tipo": "simple" },
+      { "id": "pulpa_cerdo_poke", "nombre": "Pulpa de cerdo", "cantidad": 100, "unidad": "gramos", "tipo": "simple" },
+      { "id": "curry_en_polvo_poke_cerdo", "nombre": "Curry en polvo", "cantidad": 15, "unidad": "gramos", "tipo": "simple" },
+      { "id": "harina_poke_cerdo", "nombre": "Harina", "cantidad": 15, "unidad": "gramos", "tipo": "simple" },
+      { "id": "chuno_poke_cerdo", "nombre": "Chuño", "cantidad": 15, "unidad": "gramos", "tipo": "simple" },
+      { "id": "sal_poke_cerdo", "nombre": "Sal", "cantidad": 3, "unidad": "gramos", "tipo": "simple" },
+      { "id": "huevo_poke_cerdo", "nombre": "Huevo", "cantidad": 30, "unidad": "gramos", "tipo": "simple" },
+      { "id": "semilla_sesamo_poke_cerdo", "nombre": "Semilla mix de sésamo", "cantidad": 2, "unidad": "gramos", "tipo": "simple" },
+      { "id": "salsa_tamarindo_poke_cerdo", "nombre": "Salsa tamarindo", "cantidad": 40, "unidad": "gramos", "tipo": "simple" }
+    ]
+  },
+  {
+    "id": "poke_pollo_curry",
+    "plato": "POKE DE POLLO AL CURRY",
+    "porciones": 1,
+    "ingredientes": [
+      { "id": "arroz_shari_poke_pollo", "nombre": "Arroz shari", "cantidad": 150, "unidad": "gramos", "tipo": "simple" },
+      { "id": "pechuga_pollo_poke", "nombre": "Pechuga de pollo", "cantidad": 100, "unidad": "gramos", "tipo": "simple" },
+      { "id": "salsa_curry_rb_poke", "nombre": "RB salsa curry", "cantidad": 40, "unidad": "gramos", "tipo": "simple" },
+      { "id": "pimientos_poke_pollo", "nombre": "Pimientos verde y rojo", "cantidad": 40, "unidad": "gramos", "tipo": "simple" },
+      { "id": "repollo_morado_poke_pollo", "nombre": "Repollo morado", "cantidad": 15, "unidad": "gramos", "tipo": "simple" },
+      { "id": "zanahoria_poke_pollo", "nombre": "Zanahoria", "cantidad": 15, "unidad": "gramos", "tipo": "simple" },
+      { "id": "diente_dragon_poke_pollo", "nombre": "Diente dragón", "cantidad": 10, "unidad": "gramos", "tipo": "simple" },
+      { "id": "palta_poke_pollo", "nombre": "Palta", "cantidad": 50, "unidad": "gramos", "tipo": "simple" },
+      { "id": "curry_en_polvo_poke_pollo", "nombre": "Curry en polvo", "cantidad": 2, "unidad": "gramos", "tipo": "simple" },
+      { "id": "harina_poke_pollo", "nombre": "Harina", "cantidad": 15, "unidad": "gramos", "tipo": "simple" },
+      { "id": "chuno_poke_pollo", "nombre": "Chuño", "cantidad": 15, "unidad": "gramos", "tipo": "simple" },
+      { "id": "sal_poke_pollo", "nombre": "Sal", "cantidad": 2, "unidad": "gramos", "tipo": "simple" },
+      { "id": "huevo_poke_pollo", "nombre": "Huevo", "cantidad": 30, "unidad": "gramos", "tipo": "simple" },
+      { "id": "semilla_sesamo_poke_pollo", "nombre": "Semilla sésamo mix", "cantidad": 2, "unidad": "gramos", "tipo": "simple" }
+    ]
+  },
+  {
+    "id": "poke_vegano",
+    "plato": "POKE VEGANO",
+    "porciones": 1,
+    "ingredientes": [
+      { "id": "arroz_shari_poke_vegano", "nombre": "Arroz shari", "cantidad": 150, "unidad": "gramos", "tipo": "simple" },
+      { "id": "tofu_frito_poke_vegano", "nombre": "Tofu frito", "cantidad": 50, "unidad": "gramos", "tipo": "simple" },
+      { "id": "palta_poke_vegano", "nombre": "Palta", "cantidad": 50, "unidad": "gramos", "tipo": "simple" },
+      { "id": "wakame_rb_poke_vegano", "nombre": "RB wakame", "cantidad": 30, "unidad": "gramos", "tipo": "simple" },
+      { "id": "champinon_poke_vegano", "nombre": "Champiñón", "cantidad": 10, "unidad": "gramos", "tipo": "simple" },
+      { "id": "brocoli_poke_vegano", "nombre": "Brócoli", "cantidad": 20, "unidad": "gramos", "tipo": "simple" },
+      { "id": "diente_dragon_poke_vegano", "nombre": "Diente dragón", "cantidad": 20, "unidad": "gramos", "tipo": "simple" },
+      { "id": "soya_poke_vegano", "nombre": "Soya", "cantidad": 20, "unidad": "gramos", "tipo": "simple" },
+      { "id": "semilla_sesamo_poke_vegano", "nombre": "Semilla sésamo", "cantidad": 2, "unidad": "gramos", "tipo": "simple" }
+    ]
+  },
+  {
+    "id": "poke_acevichado",
+    "plato": "POKE ACEVICHADO",
+    "porciones": 1,
+    "ingredientes": [
+      { "id": "arroz_shari_poke_acevichado", "nombre": "Arroz shari (RB)", "cantidad": 150, "unidad": "gramos", "tipo": "simple" },
+      { "id": "camaron_36_40_poke_acev", "nombre": "Camarón 36/40", "cantidad": 6, "unidad": "unidades", "tipo": "simple" },
+      { "id": "pepino_poke_acev", "nombre": "Pepino", "cantidad": 50, "unidad": "gramos", "tipo": "simple" },
+      { "id": "choclo_poke_acev", "nombre": "Choclo amarillo", "cantidad": 50, "unidad": "gramos", "tipo": "simple" },
+      { "id": "palta_poke_acev", "nombre": "Palta", "cantidad": 50, "unidad": "gramos", "tipo": "simple" },
+      { "id": "rocoto_poke_acev", "nombre": "Rocoto", "cantidad": 15, "unidad": "gramos", "tipo": "simple" },
+      { "id": "alga_nori_poke_acev", "nombre": "Alga nori", "cantidad": 2, "unidad": "gramas", "tipo": "simple" },
+      { "id": "cilantro_poke_acev", "nombre": "Cilantro", "cantidad": 10, "unidad": "gramos", "tipo": "simple" },
+      { "id": "salsa_acevichada_rb", "nombre": "RB salsa acevichada", "cantidad": 60, "unidad": "gramos", "tipo": "simple" },
+      { "id": "togarashi_poke_acev", "nombre": "Togarashi", "cantidad": 2, "unidad": "gramos", "tipo": "simple" }
+    ]
+  },
+  {
+    "id": "sopa_ramen_miso",
+    "plato": "SOPA RAMEN MISO",
+    "porciones": 1,
+    "ingredientes": [
+      { "id": "fondo_verdura_miso", "nombre": "Fondo verdura", "cantidad": 300, "unidad": "mililitros", "tipo": "simple" },
+      { "id": "noodle_arroz_miso", "nombre": "Noodle de arroz", "cantidad": 150, "unidad": "gramos", "tipo": "simple" },
+      { "id": "tofu_frito_miso", "nombre": "Tofu frito", "cantidad": 50, "unidad": "gramos", "tipo": "simple" },
+      { "id": "diente_dragon_miso", "nombre": "Diente dragón", "cantidad": 20, "unidad": "gramos", "tipo": "simple" },
+      { "id": "choclo_miso", "nombre": "Choclo amarillo", "cantidad": 50, "unidad": "gramos", "tipo": "simple" },
+      { "id": "wakame_miso", "nombre": "Wakame", "cantidad": 15, "unidad": "gramos", "tipo": "simple" },
+      { "id": "cebollin_miso", "nombre": "Cebollín", "cantidad": 3, "unidad": "gramos", "tipo": "simple" },
+      { "id": "base_miso_rb", "nombre": "RB Miso", "cantidad": 25, "unidad": "gramos", "tipo": "simple" }
+    ]
+  },
+  {
+    "id": "sopa_ramen_gouchujang",
+    "plato": "SOPA RAMEN GOUCHUJANG",
+    "porciones": 1,
+    "ingredientes": [
+      { "id": "fondo_ramen_gou", "nombre": "Rb fondo ramen", "cantidad": 300, "unidad": "gramos", "tipo": "simple" },
+      { "id": "pasta_ramen_gou", "nombre": "Pasta ramen", "cantidad": 150, "unidad": "gramos", "tipo": "simple" },
+      { "id": "repollo_morado_gou", "nombre": "Repollo morado", "cantidad": 25, "unidad": "gramos", "tipo": "simple" },
+      { "id": "diente_dragon_gou", "nombre": "Diente dragón", "cantidad": 25, "unidad": "gramos", "tipo": "simple" },
+      { "id": "choclo_gou", "nombre": "Choclo amarillo", "cantidad": 50, "unidad": "gramos", "tipo": "simple" },
+      { "id": "cebollin_verde_gou", "nombre": "Cebollín verde", "cantidad": 3, "unidad": "gramas", "tipo": "simple" },
+      { "id": "chasiu_rb_gou", "nombre": "Rb chasiu", "cantidad": 90, "unidad": "gramos", "tipo": "simple" },
+      { "id": "huevo_domburi_gou", "nombre": "Rb huevo domburi", "cantidad": 0.5, "unidad": "unidad", "tipo": "simple" },
+      { "id": "salsa_gouchujang", "nombre": "Salsa gouchujang", "cantidad": 5, "unidad": "gramos", "tipo": "simple" }
+    ]
+  },
+  {
+    "id": "sopa_ramen_curry",
+    "plato": "SOPA RAMEN AL CURRY",
+    "porciones": 1,
+    "ingredientes": [
+      { "id": "fondo_ramen_curry", "nombre": "Fondo ramen", "cantidad": 300, "unidad": "gramos", "tipo": "simple" },
+      { "id": "pasta_ramen_curry", "nombre": "Pasta ramen", "cantidad": 150, "unidad": "gramos", "tipo": "simple" },
+      { "id": "chasiu_rb_curry", "nombre": "Rb chasiu", "cantidad": 90, "unidad": "gramos", "tipo": "simple" },
+      { "id": "huevo_domburi_curry", "nombre": "Rb huevo domburi", "cantidad": 0.5, "unidad": "unidad", "tipo": "simple" },
+      { "id": "repollo_mix_curry", "nombre": "Repollo mix", "cantidad": 30, "unidad": "gramos", "tipo": "simple" },
+      { "id": "choclo_curry", "nombre": "Choclo amarillo", "cantidad": 50, "unidad": "gramos", "tipo": "simple" },
+      { "id": "cebollin_verde_curry", "nombre": "Cebollín verde", "cantidad": 4, "unidad": "gramos", "tipo": "simple" },
+      { "id": "curry_golden", "nombre": "Curry Golden", "cantidad": 15, "unidad": "gramos", "tipo": "simple" }
+    ]
+  },
+  {
+    "id": "plancha_mariscos",
+    "plato": "PLANCHA DE MARISCOS",
+    "porciones": 1,
+    "ingredientes": [
+      { "id": "camaron_plancha", "nombre": "Camarón 36/40", "cantidad": 6, "unidad": "unidades", "tipo": "simple" },
+      { "id": "calamar_plancha", "nombre": "Calamar", "cantidad": 60, "unidad": "gramos", "tipo": "simple" },
+      { "id": "wanyi_plancha", "nombre": "Wanyi", "cantidad": 4, "unidad": "unidades", "tipo": "simple" },
+      { "id": "cebolla_morada_plancha", "nombre": "Cebolla morada", "cantidad": 50, "unidad": "gramos", "tipo": "simple" },
+      { "id": "champinon_plancha", "nombre": "Champiñón", "cantidad": 40, "unidad": "gramos", "tipo": "simple" },
+      { "id": "brocoli_plancha", "nombre": "Brócoli", "cantidad": 40, "unidad": "gramos", "tipo": "simple" },
+      { "id": "pimiento_plancha", "nombre": "Pimiento verde y rojo", "cantidad": 40, "unidad": "gramos", "tipo": "simple" },
+      { "id": "salsa_chuhao_plancha", "nombre": "Rb salsa chuhao", "cantidad": 40, "unidad": "gramos", "tipo": "simple" },
+      { "id": "chuno_plancha", "nombre": "Chuño", "cantidad": 3, "unidad": "gramos", "tipo": "simple" },
+      { "id": "katsuobushi_plancha", "nombre": "Katsuobushi", "cantidad": 2, "unidad": "gramos", "tipo": "simple" },
+      { "id": "arroz_cocido_plancha", "nombre": "Arroz cocido", "cantidad": 150, "unidad": "gramos", "tipo": "simple" }
+    ]
+  },
+  {
+    "id": "plancha_lomo",
+    "plato": "PLANCHA DE LOMO",
+    "porciones": 1,
+    "ingredientes": [
+      { "id": "asiento_vacuno_plancha", "nombre": "Asiento vacuno", "cantidad": 140, "unidad": "gramos", "tipo": "simple" },
+      { "id": "cebolla_morada_plancha_lomo", "nombre": "Cebolla morada", "cantidad": 50, "unidad": "gramos", "tipo": "simple" },
+      { "id": "tomate_plancha_lomo", "nombre": "Tomate", "cantidad": 50, "unidad": "gramos", "tipo": "simple" },
+      { "id": "pimiento_plancha_lomo", "nombre": "Pimiento", "cantidad": 50, "unidad": "gramos", "tipo": "simple" },
+      { "id": "champinon_plancha_lomo", "nombre": "Champiñón", "cantidad": 40, "unidad": "gramos", "tipo": "simple" },
+      { "id": "cebollin_verde_plancha_lomo", "nombre": "Cebollín verde", "cantidad": 40, "unidad": "gramos", "tipo": "simple" },
+      { "id": "cilantro_plancha_lomo", "nombre": "Cilantro", "cantidad": 2, "unidad": "gramos", "tipo": "simple" },
+      { "id": "aji_puta_madre_plancha", "nombre": "Ají puta madre", "cantidad": 3, "unidad": "gramos", "tipo": "simple" },
+      { "id": "base_lomo_plancha", "nombre": "Base de lomo", "cantidad": 40, "unidad": "gramos", "tipo": "simple" },
+      { "id": "chuno_plancha_lomo", "nombre": "Chuño", "cantidad": 3, "unidad": "gramos", "tipo": "simple" },
+      { "id": "aderezo_take_plancha_lomo", "nombre": "Rb aderezo take", "cantidad": 10, "unidad": "gramos", "tipo": "simple" },
+      { "id": "arroz_cocido_plancha_lomo", "nombre": "Arroz cocido", "cantidad": 150, "unidad": "gramos", "tipo": "simple" }
+    ]
+  },
+  {
+    "id": "plancha_carne_pollo",
+    "plato": "PLANCHA DE CARNE Y POLLO",
+    "porciones": 1,
+    "ingredientes": [
+      { "id": "pechuga_pollo_plancha", "nombre": "Pechuga pollo", "cantidad": 80, "unidad": "gramos", "tipo": "simple" },
+      { "id": "asiento_vacuno_plancha_cp", "nombre": "Asiento vacuno", "cantidad": 80, "unidad": "gramos", "tipo": "simple" },
+      { "id": "cebollin_blanco_plancha", "nombre": "Cebollín blanco", "cantidad": 40, "unidad": "gramos", "tipo": "simple" },
+      { "id": "cebollin_verde_plancha_cp", "nombre": "Cebollín verde", "cantidad": 10, "unidad": "gramos", "tipo": "simple" },
+      { "id": "cebolla_morada_plancha_cp", "nombre": "Cebolla morada", "cantidad": 50, "unidad": "gramos", "tipo": "simple" },
+      { "id": "col_china_plancha", "nombre": "Col china", "cantidad": 50, "unidad": "gramos", "tipo": "simple" },
+      { "id": "champinon_plancha_cp", "nombre": "Champiñón", "cantidad": 40, "unidad": "gramos", "tipo": "simple" },
+      { "id": "brocoli_plancha_cp", "nombre": "Brócoli", "cantidad": 40, "unidad": "gramos", "tipo": "simple" },
+      { "id": "soya_plancha_cp", "nombre": "Soya", "cantidad": 30, "unidad": "gramos", "tipo": "simple" },
+      { "id": "tausi_rb_plancha", "nombre": "Rb tausi", "cantidad": 20, "unidad": "gramos", "tipo": "simple" },
+      { "id": "chuno_plancha_cp", "nombre": "Chuño", "cantidad": 3, "unidad": "gramos", "tipo": "simple" },
+      { "id": "aderezo_take_plancha_cp", "nombre": "Rb aderezo take", "cantidad": 20, "unidad": "gramos", "tipo": "simple" },
+      { "id": "arroz_cocido_plancha_cp", "nombre": "Arroz cocido", "cantidad": 150, "unidad": "gramos", "tipo": "simple" }
+    ]
+  },
+  {
+    "id": "plancha_chasiu",
+    "plato": "PLANCHA CHASIU",
+    "porciones": 1,
+    "ingredientes": [
+      { "id": "chasiu_rb_plancha", "nombre": "Rb chasiu", "cantidad": 140, "unidad": "gramos", "tipo": "simple" },
+      { "id": "pina_plancha_chasiu", "nombre": "Piña", "cantidad": 30, "unidad": "gramos", "tipo": "simple" },
+      { "id": "pimiento_plancha_chasiu", "nombre": "Pimiento", "cantidad": 50, "unidad": "gramos", "tipo": "simple" },
+      { "id": "champinon_plancha_chasiu", "nombre": "Champiñón", "cantidad": 40, "unidad": "gramos", "tipo": "simple" },
+      { "id": "diente_dragon_plancha_chasiu", "nombre": "Diente dragón", "cantidad": 40, "unidad": "gramos", "tipo": "simple" },
+      { "id": "zanahoria_plancha_chasiu", "nombre": "Zanahoria", "cantidad": 30, "unidad": "gramos", "tipo": "simple" },
+      { "id": "cebollin_verde_plancha_chasiu", "nombre": "Cebollín verde", "cantidad": 10, "unidad": "gramos", "tipo": "simple" },
+      { "id": "salsa_tamarindo_plancha_chasiu", "nombre": "Rb salsa tamarindo", "cantidad": 50, "unidad": "gramos", "tipo": "simple" },
+      { "id": "chuno_plancha_chasiu", "nombre": "Chuño", "cantidad": 4, "unidad": "gramos", "tipo": "simple" },
+      { "id": "aderezo_take_plancha_chasiu", "nombre": "Rb aderezo take", "cantidad": 20, "unidad": "gramos", "tipo": "simple" },
+      { "id": "fansi_plancha_chasiu", "nombre": "Fansi", "cantidad": 20, "unidad": "gramos", "tipo": "simple" }
+    ]
+  },
+  {
+    "id": "ceviche_al_wok",
+    "plato": "CEVICHE AL WOK",
+    "porciones": 1,
+    "ingredientes": [
+      { "id": "reineta_ceviche", "nombre": "Reineta", "cantidad": 150, "unidad": "gramos", "tipo": "simple" },
+      { "id": "pasta_aji_amarillo_ceviche", "nombre": "Pasta ají amarillo", "cantidad": 40, "unidad": "gramos", "tipo": "simple" },
+      { "id": "cebolla_morada_ceviche", "nombre": "Cebolla morada", "cantidad": 50, "unidad": "gramos", "tipo": "simple" },
+      { "id": "camote_ceviche", "nombre": "Camote", "cantidad": 30, "unidad": "gramos", "tipo": "simple" },
+      { "id": "choclo_peruano_ceviche", "nombre": "Choclo peruano", "cantidad": 30, "unidad": "gramos", "tipo": "simple" },
+      { "id": "cancha_paccho_ceviche", "nombre": "Cancha paccho", "cantidad": 15, "unidad": "gramos", "tipo": "simple" },
+      { "id": "aji_limo_ceviche", "nombre": "Ají limo", "cantidad": 5, "unidad": "gramos", "tipo": "simple" },
+      { "id": "cilantro_ceviche", "nombre": "Cilantro", "cantidad": 5, "unidad": "gramos", "tipo": "simple" },
+      { "id": "leche_tigre_ceviche", "nombre": "Leche de tigre", "cantidad": 40, "unidad": "mililitros", "tipo": "simple" },
+      { "id": "limon_pica_ceviche", "nombre": "Limón pica", "cantidad": 1, "unidad": "unidad", "tipo": "simple" }
+    ]
+  },
+  {
+    "id": "plato_vegano_plancha",
+    "plato": "PLATO VEGANO (PLANCHA)",
+    "porciones": 1,
+    "ingredientes": [
+      { "id": "tofu_frito_plancha_vegano", "nombre": "Tofu frito", "cantidad": 80, "unidad": "gramos", "tipo": "simple" },
+      { "id": "wanyi_plancha_vegano", "nombre": "Wanyi", "cantidad": 8, "unidad": "unidades", "tipo": "simple" },
+      { "id": "champinon_plancha_vegano", "nombre": "Champiñón", "cantidad": 70, "unidad": "gramos", "tipo": "simple" },
+      { "id": "cebollin_plancha_vegano", "nombre": "Cebollín", "cantidad": 10, "unidad": "gramos", "tipo": "simple" },
+      { "id": "soya_plancha_vegano", "nombre": "Soya", "cantidad": 30, "unidad": "gramos", "tipo": "simple" },
+      { "id": "castana_caju_plancha_vegano", "nombre": "Castaña cajú", "cantidad": 30, "unidad": "gramos", "tipo": "simple" },
+      { "id": "aderezo_take_plancha_vegano", "nombre": "Rb aderezo take", "cantidad": 20, "unidad": "gramos", "tipo": "simple" },
+      { "id": "sal_plancha_vegano", "nombre": "Sal", "cantidad": "c/n", "unidad": "", "tipo": "simple" }
+    ]
+  }
+]

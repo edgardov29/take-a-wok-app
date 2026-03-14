@@ -1,0 +1,43 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px 0;
+    border-bottom: 1px solid #eee;
+}
+
+.brand {
+    display: flex;
+    gap: 12px;
+    align-items: center;
+}
+
+.logo {
+    height: 48px;
+    width: 48px;
+    object-fit: contain;
+}
+
+.title {
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.subtitle {
+    font-size: 12px;
+    color: #666;
+}
+
+.modes button {
+    margin-left: 8px;
+    padding: 6px 10px;
+    border-radius: 6px;
+    border: 1px solid transparent;
+    background: transparent;
+    cursor: pointer;
+}
+
+.modes .active {
+    border-color: var(--primary, #e94e1b);
+    background: rgba(233, 78, 27, 0.08);
+}
