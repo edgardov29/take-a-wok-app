@@ -1,0 +1,1 @@
+var e=`take-a-wok`,t=`Take A Wok`,n=`#E94E1B`,r=`/data/take-a-wok/images/logo.png`,i=`es-CL`,a={slug:e,name:t,primaryColor:n,logo:r,locale:i};export{a as default,i as locale,r as logo,t as name,n as primaryColor,e as slug};
